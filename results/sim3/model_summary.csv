@@ -1,0 +1,3 @@
+model,layers,kv_heads,head_dim,params_billion,kv_bytes_per_token,kv_kib_per_token,weights_gb,free_for_kv_gb
+llama2_7b,32,32,128,6.74,524288,512.0,13.48,66.52
+llama3_8b,32,8,128,8.03,131072,128.0,16.06,63.94

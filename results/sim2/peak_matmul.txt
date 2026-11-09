@@ -1,0 +1,6 @@
+peak_gflops,80.67
+(checksum 9.21662e+10)
+variant,seconds,gflops
+naive,1.147,1.872
+tiled64,0.139,15.490
+(checksum 172.942)

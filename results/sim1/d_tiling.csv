@@ -1,0 +1,6 @@
+variant,misses,miss_rate_pct,amat_cycles
+naive,271120,51.311,52.311
+tile4,18800,3.187,4.187
+tile8,9208,1.653,2.653
+tile16,87616,16.205,17.205
+tile32,275488,51.737,52.737
